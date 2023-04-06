@@ -1,2 +1,2 @@
-# Programas Java
-Meus programas na linguagem Java.
+# Programa Binário
+Programa que codifica uma frase (String) para binário, feito utilizando a linguagem Java.
