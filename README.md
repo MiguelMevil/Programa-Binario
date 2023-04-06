@@ -1,2 +1,2 @@
-# Programas-Java
+# Programas Java
 Meus programas na linguagem Java.
